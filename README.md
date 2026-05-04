@@ -1,64 +1,83 @@
-# FOODPANDA REVENUE & SALES PERFORMANCE DASHBOARD 
-# Project Overview
-This project presents a comprehensive Business Intelligence analysis of Foodpanda’s operations,
-focusing on revenue performance, customer engagement, and sales trends.
-The dashboard transforms raw data into actionable insights to support better decision-making in areas like customer retention, 
-delivery performance, and revenue growth.
-# Business Objectives.
-Monitor overall business performance
+📊# FOODPANDA REVENUE & SALES PERFORMANCE DASHBOARD 
 
-Identify customer retention patterns
+📌# Project Overview
+This project presents a comprehensive Business Intelligence analysis of Foodpanda’s operations, focusing on revenue performance, customer engagement, and sales trends.
 
-Analyze revenue by different segments
+The dashboard transforms raw data into actionable insights to support better decision-making in areas like customer retention, delivery performance, and revenue growth.
 
-Track delivery efficiency
+🎯# Business Objectives
+Analyze overall revenue and sales performance
 
-Support data-driven decision making
-Dashboard Preview
-🔹 Revenue & Sales Performance
+Understand customer behavior and engagement
 
-🔹 Customer Engagement & Retention
-# Key Metrics
-Total Orders: 6K
+Identify churn patterns and retention opportunities
 
-Total Revenue: $14.3M
+Evaluate delivery efficiency
 
-Total Customers: 6K
+Highlight top-performing cities and restaurants
 
-Average Order Value: 2.4K
+📷# Dashboard Highlights
+🔹 Revenue & Sales Performance Dashboard
+Tracks total revenue, total orders, and customer count
 
-Churn Rate: 50%
+Displays monthly revenue and order trends
 
-Average Rating: 3.0 ⭐
-# Features
-1. Revenue Analysis
-Monthly revenue trends
+Shows top-performing cities and restaurant categories
 
-Revenue by city
+🔹 Customer Engagement & Retention Dashboard
+Measures churn rate and active vs inactive customers
 
-Revenue by gender
+Analyzes customer ratings and loyalty behavior
 
-2. Customer Insights
-Customer segmentation by age group
+Segments customers by age and gender
 
-Active vs inactive customers
+📊# Key Insights
+💰 Revenue Insights
+Total revenue reached $14.3M with 6K orders
 
-Churn customer analysis
+Revenue trends fluctuate monthly, indicating seasonal demand
 
-3. Order Analysis
-Order trends over time
+Major cities contribute the highest share of revenue
 
-Orders by category
+👥 # Customer Insights
+Churn rate is high (50%), showing retention challenges
 
-Orders by age group
+Average rating of 3.0 suggests moderate customer satisfaction
 
-4. Delivery Performance
-Delivery status breakdown (Delivered, Delayed, Cancelled)
+Teenagers and adults contribute the most engagement
 
-Payment method distribution
+📦# Order & Sales Insights
+Fast food and Chinese categories dominate orders
 
-5. Restaurant Performance
-Top-performing restaurants
+Top restaurants (e.g., Pizza Hut, KFC) drive significant sales
 
-Category-based order distribution
+Order volume trends show peak periods across specific months
 
+🚚# Delivery Performance
+Delivery distribution is balanced across:
+
+Delivered
+
+Delayed
+
+Cancelled
+
+Delays and cancellations may impact customer satisfaction
+
+📈# Features of the Dashboard
+Interactive filters (City, Gender, Month)
+
+Dynamic charts and KPIs
+
+Comparative analysis across categories
+
+Visual breakdown of customer and sales data
+
+🛠️# Tools & Technologies
+Power BI (Dashboard creation)
+
+Excel / CSV (Data source)
+
+Data Cleaning & Transformation
+
+Data Visualization Techniques
