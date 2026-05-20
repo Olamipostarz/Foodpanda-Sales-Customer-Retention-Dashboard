@@ -202,3 +202,25 @@ Expected Impact:
 
 📈 Conclusion
 The dashboard reveals that FoodPanda performs strongly in revenue generation and customer acquisition, but improvements are needed in customer retention, delivery efficiency, and customer satisfaction. Implementing these recommendations can help increase profitability, improve customer loyalty, and strengthen overall business performance.
+
+#👤 Author
+
+## Damilola Bello
+
+Aspiring Data Analyst passionate about:
+
+* Business Intelligence
+* Data Visualization
+* Analytics
+* Dashboard Development
+
+⸻
+
+⭐ If You Like This Project
+
+Feel free to:
+
+* Star the repository
+* Fork the project
+* Share feedback
+* Connect with me on GitHub
