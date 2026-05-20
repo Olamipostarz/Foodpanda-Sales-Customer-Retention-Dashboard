@@ -110,6 +110,7 @@ Data Visualization Technique
 
 <img width="963" height="741" alt="Screenshot 2026-05-20 134400" src="https://github.com/user-attachments/assets/af4ef2ab-a0b4-49e4-9a4c-250ca24e5d13" />
 <img width="959" height="732" alt="Screenshot 2026-05-12 122840" src="https://github.com/user-attachments/assets/d2cddd29-82f7-47c9-9a60-454dac692c67" />
+
 ## 📌 Business Recommendations
 
 Based on the dashboard analysis, the following recommendations can help improve business performance, customer retention, and operational efficiency for FoodPanda.
