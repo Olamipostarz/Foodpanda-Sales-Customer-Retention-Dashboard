@@ -189,7 +189,7 @@ Expected Impact:
 * Increased customer activity
 * Better marketing efficiency
   
-7️⃣ Encourage Digital Payments
+# 7️⃣ Encourage Digital Payments
 Cash, card, and wallet payments are almost equally used.
 Recommendation:
 * Promote digital wallet discounts
@@ -200,7 +200,7 @@ Expected Impact:
 * Reduced operational risks
 * Improved transaction tracking
 
-📈 Conclusion
+# 📈 Conclusion
 The dashboard reveals that FoodPanda performs strongly in revenue generation and customer acquisition, but improvements are needed in customer retention, delivery efficiency, and customer satisfaction. Implementing these recommendations can help increase profitability, improve customer loyalty, and strengthen overall business performance.
 
 # 👤 Author
