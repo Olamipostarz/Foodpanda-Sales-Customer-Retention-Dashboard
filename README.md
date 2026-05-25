@@ -114,8 +114,10 @@ Data Visualization Technique
 ## 📌 Business Recommendations
 
 Based on the dashboard analysis, the following recommendations can help improve business performance, customer retention, and operational efficiency for FoodPanda.
+
 # 1️⃣ Improve Customer Retention
 The dashboard shows a high customer churn rate of 50%, which suggests many customers are not returning after initial purchases.
+
 Recommendation:
 * Introduce loyalty and reward programs
 * Offer discounts for repeat customers
@@ -128,6 +130,7 @@ Expected Impact:
   
 # 2️⃣ Focus on High-Performing Cities
 Some cities generate higher revenue compared to others.
+
 Recommendation:
 
 * Increase marketing campaigns in top-performing cities
@@ -142,6 +145,7 @@ Expected Impact:
 
 # 3️⃣ Strengthen Delivery Operations
 Delivery status analysis shows delays and cancellations affecting customer experience.
+
 Recommendation:
 * Optimize delivery routes
 * Improve rider management systems
@@ -167,6 +171,7 @@ Expected Impact:
 
 # 5️⃣ Promote High-Performing Food Categories
 Fast food and Italian categories show strong order performance.
+
 Recommendation:
 * Feature popular categories on the homepage
 * Offer combo deals and promotional campaigns
@@ -191,6 +196,7 @@ Expected Impact:
   
 # 7️⃣ Encourage Digital Payments
 Cash, card, and wallet payments are almost equally used.
+
 Recommendation:
 * Promote digital wallet discounts
 * Offer cashback for online payments
