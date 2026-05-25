@@ -159,6 +159,7 @@ Expected Impact:
 # 4️⃣ Improve Customer Experience & Ratings
 
 The average customer rating is moderate, indicating room for improvement.
+
 Recommendation:
 * Monitor customer feedback regularly
 * Improve food packaging quality
